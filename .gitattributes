@@ -1,0 +1,5 @@
+* text=auto eol=lf
+
+# Hard-coded guarantees
+clang-format binary
+clang-format.exe binary
